@@ -6,6 +6,8 @@ The data files in this repo appear on [the live Consumer Credit Trends site here
 
 ![Screenshot of consumer-credit-trends](cct-screenshot.png)
 
+HI! :) (:
+
 This site displays graphs for several consumer credit markets:
 
 - Auto loans
